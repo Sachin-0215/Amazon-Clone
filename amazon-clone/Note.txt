@@ -1,0 +1,17 @@
+create react app setup command
+
+tailwind setup command
+
+npm i react-router-dom -> import browser etc from react-router-dom
+
+
+
+for icons
+heroicons - npm i @heroicons/react
+
+
+for checkout we use redux - (state management)
+
+npm i react-redux
+
+npm i @reduxjs/toolkit
